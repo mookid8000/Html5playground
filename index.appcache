@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+#1
+index.html
+
+# Resources
+css/bootstrap-responsive.css
+css/bootstrap-responsive.min.css
+css/bootstrap.css
+css/bootstrap.min.css
+css/main.css
+
+
+FALLBACK:
+img/online.png img/offline.png
